@@ -26,7 +26,7 @@ export default function Sobre() {
             </div>
             <div className="relative h-82 w-full md:h-[25rem] md:w-[65vh]">
               <Image
-                src="/imgs/sobre1.png"
+                src="/imgs/celular.png"
                 alt="Ilustração do sistema de monitoramento"
                 fill
                 className="object-contain [filter:drop-shadow(0_0px_10px_rgba(5,218,0,0.2))]"
@@ -40,7 +40,7 @@ export default function Sobre() {
            className="flex flex-col items-center gap-[15vh] md:flex-row  " id="2">
             <div className="relative h-72 w-full md:h-[32rem] md:w-1/2">
               <Image
-                src="/imgs/sobre2.png"
+                src="/imgs/notebook.png"
                 alt="Ilustração de tags inteligentes"
                 fill
                 // A sombra foi adicionada aqui
