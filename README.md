@@ -1,4 +1,4 @@
-# 🐂 BUBATAG SITE
+# 🐃 BUBATAG SITE
 
 ### Conectando tradição e inovação no monitoramento inteligente de bubalinos.
 
